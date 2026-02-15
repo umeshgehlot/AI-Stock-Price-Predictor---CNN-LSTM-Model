@@ -60,9 +60,7 @@ Historical price data (Open, High, Low, Close, Volume) and daily trading metadat
 The Streamlit dashboard overlays predicted closing prices on interactive candlestick charts, enabling a side-by-side comparison of historical movements and model outlook. Qualitative evaluation on representative tickers such as `AAPL`, `TSLA`, and `RELIANCE.NS` shows that the CNN-LSTM stack captures short-term directional trends and provides sensible confidence bounds for the next three sessions. Formal quantitative benchmarking (e.g., RMSE, MAPE) is planned as a future enhancement, alongside automated backtesting to assess statistical significance of prediction accuracy.
 
 # References
-
-- Lu, W. et al. (2020). "A CNN-LSTM Model for Stock Price Prediction." Proceedings of the International Conference on Artificial Intelligence.
 - Yahoo Finance API Documentation.
 - TensorFlow 2.16.2 and Keras Developer Guides.
 - Streamlit Documentation.
-- Alex Kalinin, "cnn-lstm-stock" GitHub Repository (base project inspiration).
+
