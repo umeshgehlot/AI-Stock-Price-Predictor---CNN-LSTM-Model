@@ -1,0 +1,7 @@
+tensorflow==2.16.2
+tf-keras==2.16.0
+pandas>=2.0.0
+numpy>=1.26.0,<2.0.0
+yfinance>=0.2.0
+streamlit>=1.50.0
+plotly>=6.0.0
