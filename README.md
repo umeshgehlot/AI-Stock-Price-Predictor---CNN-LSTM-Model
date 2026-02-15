@@ -215,9 +215,7 @@ Contributions are welcome! Areas for improvement:
 - [ ] Add plotting and visualization features
 - [ ] Implement backtesting functionality
 
-## 📝 License
 
-This project builds upon [alexkalinins/cnn-lstm-stock](https://github.com/alexkalinins/cnn-lstm-stock)
 
 ## 🔗 References
 
